@@ -1,0 +1,20 @@
+.mainPosBg {
+    background-image: linear-gradient(rgba(211, 211, 211, 0.6), rgba(211, 211, 211, 0.6)),
+        url('../images/A\ meditating\ in\ aff6644a-8a2f-44a4-9301-9902ce3ee706.png');
+    background-size: cover;
+    background-position: top;
+    height: 100dvh;
+}
+
+
+.register-image {
+    background: url("../images/regs-img.png");
+    background-position: top;
+    background-size: cover;
+}
+
+.login-image{
+    background: url("../images/\'Resonance\'\,\ \'H\ 08a9922a-18e2-4d1a-b3a5-51c70b8964f8.png");
+    background-position: center;
+    background-size: cover;
+}
